@@ -1,0 +1,8 @@
+id_venta,fecha,id_cliente,producto,cantidad,precio,total
+V001,2024-01-15,C001,Laptop HP,1,850.00,850.00
+V002,2024-01-16,C002,Teclado Mecánico,2,75.50,151.00
+"V003,2024-01-17,C003,Monitor 24"",1,220.00,220.00"
+V004,2024-01-18,C001,Mouse Inalámbrico,1,25.99,25.99
+V005,2024-01-19,C004,Tablet Samsung,1,320.00,320.00
+V006,2024-01-20,C002,Auriculares,1,45.75,45.75
+V007,2024-01-21,C005,Impresora Laser,1,189.99,189.99
