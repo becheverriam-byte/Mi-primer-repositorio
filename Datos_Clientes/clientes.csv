@@ -1,0 +1,7 @@
+id_cliente,nombre,email,telefono,ciudad,pais
+C001,María González,maria.gonzalez@email.com,+34-600-123-456,Madrid,España
+C002,Carlos Rodríguez,carlos.rodriguez@email.com,+34-611-234-567,Barcelona,España
+C003,Ana López,ana.lopez@email.com,+34-622-345-678,Valencia,España
+C004,Pedro Martínez,pedro.martinez@email.com,+34-633-456-789,Sevilla,España
+C005,Laura Sánchez,laura.sanchez@email.com,+34-644-567-890,Bilbao,España
+C006,David Fernández,david.fernandez@email.com,+34-655-678-901,Málaga,España
